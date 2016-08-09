@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于"
 description: ""
 header-img: "img/green.jpg"
 ---
@@ -10,19 +10,19 @@ header-img: "img/green.jpg"
     <p><img src="" align="center"></p>
 </center>
 
-###坚信
+### 坚信
 
 
-###关注：
+### 关注：
 
 
-###代表作：
+### 代表作：
 
 
-###我的朋友们
+### 我的朋友们
 
 
-###联系
+### 联系
 
 
 <center>
