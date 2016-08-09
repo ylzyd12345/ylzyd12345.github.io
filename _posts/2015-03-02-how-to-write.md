@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kev1n
+title: 2016书单
 date: 2016-08-10
 categories: blog
 tags: [书单]
@@ -41,7 +41,7 @@ description: 2016书单。
 * 人月神话
 * 浪潮之巅
 
----
+***
 # 非技术
 * 苏菲的世界
 * 灿烂千阳
