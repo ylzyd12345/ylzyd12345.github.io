@@ -11,16 +11,16 @@ header-img: "img/green.jpg"
 </center>
 
 ### 坚信
-
+#### 勤能补拙
 
 ### 关注：
 
 
 ### 代表作：
-
+#### 会有的
 
 ### 我的朋友们
-
+#### https://ouyblog.com/
 
 ### 联系
 
